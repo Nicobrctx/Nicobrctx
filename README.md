@@ -1,10 +1,10 @@
-# Salut ! Moi c'est Nicolas 👋
+# Hi, I'm Nicolas! 👋
 
-Je suis **Développeur Web Full-Stack**. Passionné par le numérique et la création visuelle, je combine logique et créativité pour donner vie à des applications web modernes et intuitives. Mon solide bagage en arts graphiques et en audiovisuel m'apporte un œil affûté pour le design et l'expérience utilisateur (UX/UI).
+I'm a **Full-Stack Web Developer**. I love the digital space and visual creation, blending logic with a bit of creativity to build clean, intuitive web apps. With a background in graphic arts and audiovisuals, I keep a sharp eye on design and user experience (UX/UI).
 
 ---
 
-###  Mon Stack Technique
+### 🛠️ Tech Stack
 
 #### **Front-End**
 <p align="left">
@@ -16,7 +16,7 @@ Je suis **Développeur Web Full-Stack**. Passionné par le numérique et la cré
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
 </p>
 
-#### **Back-End & Bases de données**
+#### **Back-End & Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -24,7 +24,7 @@ Je suis **Développeur Web Full-Stack**. Passionné par le numérique et la cré
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-#### **Outils & Design**
+#### **Tools & Design**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
@@ -33,20 +33,20 @@ Je suis **Développeur Web Full-Stack**. Passionné par le numérique et la cré
 
 ---
 
-###  Langues
-* 🇫🇷 **Français** : Langue maternelle
-* 🇬🇧 **Anglais** : Bilingue (C1)
-* 🇪🇸 **Espagnol** : Débutant (A2)
-* 🇳🇱 **Néerlandais** : Notions (A2)
+### 🗣️ Languages
+* 🇫🇷 **French**: Native
+* 🇬🇧 **English**: Bilingual
+* 🇪🇸 **Spanish**: Beginner (A1)
+* 🇳🇱 **Dutch**: Basics (A2)
 
 ---
 
-###  Me contacter
-  **LinkedIn** : www.linkedin.com/in/nicolas-bricteux
-   **Email** : nicolasbricteux2001@gmail.com
+### 📬 Get in Touch
+* **LinkedIn**: [linkedin.com/in/nicolas-bricteux](https://www.linkedin.com/in/nicolas-bricteux)
+* **Email**: nicolasbricteux2001@gmail.com
 
 <br />
 
 <p align="center">
-  <i>"Curieux, rigoureux et habitué au travail en équipe, j'aime faire se rencontrer la créativité et la logique."</i>
+  <i>"Curious, detail-oriented, and a team player at heart—I just love bringing creativity and logic together."</i>
 </p>
